@@ -1,1 +1,1 @@
-# Neural Radiance Field in Pytorch Lightning
+# Neural Radiance Field in PyTorch Lightning
